@@ -8,10 +8,6 @@
       "favicon": "./assets/favicon.png"
     },
 
-    "experiments": {
-      "tsconfigPaths": true
-    },
-
     "plugins": [],
 
     "orientation": "portrait",
